@@ -1,3 +1,6 @@
+layout: sidebar
+style: light
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
@@ -44,10 +47,8 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
+  - name: Code
     web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    image_url: https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80
 
   - name: Web design
-
-theme: jekyll-theme-midnight
